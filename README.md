@@ -20,3 +20,5 @@ This project analyzes how discount strategies impact customer behavior across se
 - Loyal customers repeat more even at higher discounts
 - At-Risk and New segments need smarter targeting
 - High-Value customers stay profitable with controlled discounts
+
+<!-- auto-update 2024-01-19 17:33:57 -->
